@@ -1,21 +1,32 @@
 ## Hi there 👋 My name is Ina!
 
-<!--
-**Inamarie84/Inamarie84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ## 👩 About me
 
-# * 🖥 I’m currently studying Frontend-development and about to start my second year.
+* 🖥 I’m currently studying Frontend development, and about to start my second year.
+* 🏠 I'm currently living in Trondheim, Norway.
+* 🛫 When I am not studying 👩‍🎓, I work as a flight attendant 🛬.
+* 🛄 I love to travel 🗺,
+* 👟 and running is my passion 🏃‍♀️.
+* 💬 Ask me about anything 🤓.
+* 📫 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/ina-marie-forseth-66a7b232/).
 
+## 🛠 Skills
 
+* HTML, CSS, JavaScript
+* Git, GitHub
+* Figma
 
-* 🏠 I'm currently living in Trondheim, Norway. 
-* When I am not studying 👩‍🎓, I work as a flight attendant ✈. 
-* Also I love to travel 🗺, and run 🏃‍♀️. 
-- 💬 Ask me about anything 🤓. 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+
+*  **[Project Exam 1](https://github.com/Inamarie84/project-exam-1-inamarieforseth)**: A personal blog site built with WordPress as a headless CMS.
+
+## 🎓 Education
+
+* **Noroff - School of technology and digital media**: Frontend Development (current)
+
+## 🌍 Social media
+
+* [LinkedIn](https://www.linkedin.com/in/ina-marie-forseth-66a7b232/)
+* [Facebook](https://www.facebook.com/ina.forseth)
+* [Instagram](https://www.instagram.com/inamarie84/)
+
