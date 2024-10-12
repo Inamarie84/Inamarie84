@@ -9,7 +9,7 @@
 * 👟 and running is my passion 🏃‍♀️.
 * 💬 Ask me about anything 🤓.
 * 📫 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/ina-marie-forseth-66a7b232/).
-* Check out my portfolio
+* Check out my portfolio: [Portfolio](https://inamarie-portfolio-1.netlify.app/)
 
 ## 🛠 Skills
 
