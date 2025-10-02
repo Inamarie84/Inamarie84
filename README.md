@@ -1,33 +1,61 @@
-## Hi there 👋 My name is Ina!
+# Hi there 👋 I'm Ina
 
-## 👩 About me
+Frontend developer finishing my second (final) year at **Noroff – Frontend Development**.  
+I build fast, accessible web apps with **React/Next.js**, **TypeScript**, and **Tailwind CSS**.
 
-* 🖥 I’m currently studying Frontend development, and about to start my second year.
-* 🏠 I'm currently living in Trondheim, Norway.
-* 🛫 When I am not studying 👩‍🎓, I work as a flight attendant 🛬.
-* 🛄 I love to travel 🗺,
-* 👟 and running is my passion 🏃‍♀️.
-* 💬 Ask me about anything 🤓.
-* 📫 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/ina-marie-forseth-66a7b232/).
-* Check out my portfolio: [Portfolio](https://inamarie-portfolio-1.netlify.app/)
+- 📍 Based in **Trondheim, Norway**
+- ✈️ Also a **flight attendant**—I love travel and the rhythm of airports
+- 👟 Runner & outdoors fan
+- 💬 Happy to chat about UI architecture, a11y, and DX
+- 📫 Connect on **LinkedIn**: [Ina-Marie Forseth](https://www.linkedin.com/in/ina-marie-forseth-66a7b232/)
+- 🌐 Portfolio: [inamarie-portfolio-1.netlify.app](https://inamarie-portfolio-1.netlify.app/)
 
-## 🛠 Skills
+---
 
-* HTML, CSS, JavaScript
-* Git, GitHub
-* Figma
+## 🛠️ Skills
 
-## 🌟 Projects
+**Core:** React / Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS  
+**State & Data:** Zustand · REST APIs  
+**Quality:** Accessibility (WCAG) · Testing (React Testing Library)  
+**Workflow:** Git/GitHub · Vercel/Netlify · Figma · Chrome DevTools · Lighthouse
 
-*  **[Project Exam 1](https://github.com/Inamarie84/project-exam-1-inamarieforseth)**: A personal blog site built with WordPress as a headless CMS.
+---
+
+## 🌟 Featured Projects
+
+### Markéta — The Online Shop (Next.js + TypeScript)
+E-commerce storefront with product listing, details, cart, checkout success, and contact form. Strong typing, small state store (Zustand), and a11y-minded UI.
+- 🔴 **Live:** https://jsf-online-shop.vercel.app/
+- 📦 **Repo:** https://github.com/Inamarie84/jsf-online-shop
+
+### Auction Vintage Items — Semester Project 2
+Full auction flow: register/login, create listings, place bids, view bid history, and profile. Tailwind UI with skeleton loaders and robust fetch/error handling.
+- 🔴 **Live:** https://auction-vintageitems.netlify.app/
+- 📦 **Repo:** https://github.com/Inamarie84/semester-project-2
+
+### RunSocial — CSS Frameworks CA (Tailwind)
+Responsive UI for a social running app. Focus on a11y (skip links, focus styles), stable image loading (intrinsic sizes), and clean mobile nav semantics.
+- 🔴 **Live:** https://run-social.netlify.app/
+- 📦 **Repo:** https://github.com/Inamarie84/css-frameworks-ca (branch: `css-frameworks`)
+
+---
+
+## 🗂 Other
+
+**Project Exam 1** – Personal blog site using WordPress as headless CMS.  
+Repo: https://github.com/Inamarie84/project-exam-1-inamarieforseth
+
+---
 
 ## 🎓 Education
 
-* **Noroff - School of technology and digital media**: Frontend Development (current)
+**Noroff – School of Technology and Digital Media**  
+Frontend Development (Year 2, final year)
 
-## 🌍 Social media
+---
 
-* [LinkedIn](https://www.linkedin.com/in/ina-marie-forseth-66a7b232/)
-* [Facebook](https://www.facebook.com/ina.forseth)
-* [Instagram](https://www.instagram.com/inamarie84/)
+## 🌍 Social
 
+- LinkedIn: https://www.linkedin.com/in/ina-marie-forseth-66a7b232/
+- Instagram: https://www.instagram.com/inamarie84/
+- Facebook: https://www.facebook.com/ina.forseth
