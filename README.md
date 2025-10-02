@@ -8,7 +8,7 @@ I build fast, accessible web apps with **React/Next.js**, **TypeScript**, and **
 - 👟 Runner & outdoors fan
 - 💬 Happy to chat about UI architecture, a11y, and DX
 - 📫 Connect on **LinkedIn**: [Ina-Marie Forseth](https://www.linkedin.com/in/ina-marie-forseth-66a7b232/)
-- 🌐 Portfolio: [inamarie-portfolio-1.netlify.app](https://inamarie-portfolio-1.netlify.app/)
+- 🌐 Portfolio: [ina-portfolio.vercel.app](https://ina-portfolio.vercel.app/)]
 
 ---
 
