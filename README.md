@@ -26,8 +26,8 @@ I build fast, accessible web apps with **React/Next.js**, **TypeScript**, and **
 ### Holidaze — The Online Shop (Next.js + TypeScript)
 A modern accommodation booking site built with Next.js, TypeScript, and Tailwind CSS.
 Implements both customer and venue manager flows against the Noroff v2 Holidaze API.
-- 🔴 **Live:** [https://jsf-online-shop.vercel.app/](https://holidaze-ten.vercel.app/venues)
-- 📦 **Repo:** [https://github.com/Inamarie84/jsf-online-shop](https://github.com/Inamarie84/holidaze)
+- 🔴 **Live:** https://holidaze-ten.vercel.app/venues
+- 📦 **Repo:** https://github.com/Inamarie84/holidaze
 
 ### Markéta — The Online Shop (Next.js + TypeScript)
 E-commerce storefront with product listing, details, cart, checkout success, and contact form. Strong typing, small state store (Zustand), and a11y-minded UI.
